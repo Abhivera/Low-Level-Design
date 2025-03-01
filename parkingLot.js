@@ -1,4 +1,4 @@
-// Design a parking lot system that supports;
+// Design a parking lot system that supports
 
 //1.Single entry and Exit gates.
 //2.Multiple Entry and Exit Gates. The system should manage parking space allocation and vehile tracking efficiently.
